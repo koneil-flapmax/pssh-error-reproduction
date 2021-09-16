@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  9 02:41:11 2021
-
-@author: piyush
-"""
 import logging
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
